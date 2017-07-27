@@ -1,2 +1,2 @@
-# expl_data_analysis
-Contains exercise submissions from exploratory data analysis
+# machine learning mini projects
+This repo contains small projects exploring statistics and machine learning techniques
